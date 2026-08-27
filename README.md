@@ -1,90 +1,135 @@
-<h1 align="center">Hi, I'm Shlok Atal.. 👋</h1>
-<h3 align="center">Aspiring Machine Learning and CyberSecurity</h3>
+<h1 align="center">Hi, I'm Shlok Atal 👋</h1>
+
+<h3 align="center">Machine Learning • Cybersecurity • Software Development</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=4ADE80&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;AI-Integrated+Applications;Second-Year+B.Tech+CSE+Student;Always+Learning+Something+New" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=800&color=4ADE80&center=true&vCenter=true&width=750&lines=%3E+Machine+Learning+Enthusiast;%3E+Cybersecurity+Explorer;%3E+Python+%7C+Java+%7C+JavaScript;%3E+Threat+Detection+%26+Analysis;%3E+Building+Secure+Systems;%3E+Learn.+Build.+Secure." alt="Typing SVG" />
 </p>
 
 ---
 
-### 🚀 About Me
+### 🧠 About Me
 
-- Third-year B.Tech CSE student with a strong focus on Machine Learning and CyberSecurity
-- 🌍 Open to internships, freelance work, and full-time roles
-- 📍 Based in Satara, Maharashtra — open to relocation (Pune / Mumbai / Bangalore)
-- 🤖 Currently expanding into Machine Learning and Python
-- 🗄️ Building a solid foundation in SQL and database design with MySQL
-- 💬 Ask me about MongoDB, SQL,
+* 🎓 B.Tech CSE student focused on **Machine Learning and Cybersecurity**
+* 🛡️ Exploring **threat detection, phishing detection, and secure systems**
+* 🤖 Currently expanding my skills in **Python, Machine Learning, and data analysis**
+* 💻 Building projects across **web development, databases, and software engineering**
+* 🗄️ Working with **MySQL, MongoDB, SQL, and database design**
+* 🐧 Exploring **Linux, networking, and cybersecurity concepts**
+* 🚀 Open to **internships, freelance opportunities, and collaborative projects**
+
+> **My direction:** Build software → understand how it breaks → use Machine Learning and security principles to make it smarter and safer.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages & Frameworks**
+**Languages**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,c,cpp,html,css" />
+</p>
+
+**Machine Learning & Data**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+</p>
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-**DevOps & Tools**
+**Development & Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux" />
+</p>
 
 ---
 
-### 🔥 Featured Projects
+### 🛡️ Cybersecurity & Machine Learning
 
-<table>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/ShlokAtal/theYellowDoor">☕ theYellowDoor</a></h4>
-      A web application for a local café — menu, hours, and location, built with a clean and simple UI.
-      <br /><br />
-      <code>TypeScript</code>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/ShlokAtal/Green-plate-kitchen">🥗 Green-plate-kitchen</a></h4>
-      A dietary-tracking web app with food nutrition analysis, backed by a Python FastAPI service and Supabase.
-      <br /><br />
-      <code>JavaScript</code> <code>Python</code>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h4><a href="https://github.com/ShlokAtal/MediCrew">🏥 MediCrew</a></h4>
-      A healthcare coordination platform, built as part of a hackathon (Orchathon 2@k26).
-      <br /><br />
-      <code>JavaScript</code>
-    </td>
-    <td width="50%">
-      <h4><a href="https://github.com/ShlokAtal/mediiShop">🛒 mediiShop</a></h4>
-      An e-commerce style shopping application concept.
-      <br /><br />
-      <code>HTML</code>
-    </td>
-  </tr>
-</table>
+```text
+                 ┌─────────────────────────┐
+                 │     SOFTWARE SYSTEMS    │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │   MACHINE LEARNING     │
+                 │  Detection • Analysis  │
+                 └────────────┬────────────┘
+                              │
+                              ▼
+                 ┌─────────────────────────┐
+                 │     CYBERSECURITY      │
+                 │  Threats • Protection  │
+                 └─────────────────────────┘
+```
 
-<p align="center">📌 See more on my <a href="https://github.com/ShlokAtal?tab=repositories">repositories page</a></p>
+Currently exploring how **Machine Learning can be applied to real cybersecurity problems**, particularly malicious URL and phishing detection.
+
+---
+
+### 🧩 Currently Learning
+
+```text
+Machine Learning
+████████████████░░░░  80%
+
+Cybersecurity
+██████████████░░░░░░  70%
+
+Python
+████████████████░░░░  80%
+
+SQL & Databases
+████████████████░░░░  80%
+```
+
+> These percentages represent my current learning focus, not formal skill measurements.
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api?username=ShlokAtal&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" height="165"/>
+  <img src="https://github-stats-extended.vercel.app/api?username=ShlokAtal&show_icons=true&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShlokAtal&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=ShlokAtal&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ShlokAtal&theme=radical&hide_border=true" />
+</p>
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShlokAtal/ShlokAtal/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShlokAtal/ShlokAtal/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/ShlokAtal/ShlokAtal/output/github-contribution-grid-snake.svg">
+  </picture>
+</p>
+
+---
+
+### 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShlokAtal&theme=react-dark&hide_border=true" />
 </p>
 
 ---
@@ -92,14 +137,25 @@
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:shlokatal@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/shlok-atal"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/sarveshGodbole/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="mailto:[shlokatal@gmail.com](mailto:shlokatal@gmail.com)">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/shlok-atal">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://leetcode.com/u/sarveshGodbole/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  </a>
 </p>
 
-<p align="center"><i>Thanks for stopping by! ⭐ Feel free to explore my repos and reach out.</i></p>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ShlokAtal/ShlokAtal/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ShlokAtal/ShlokAtal/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ShlokAtal/ShlokAtal/output/github-contribution-grid-snake.svg">
-</picture>
+---
+
+<p align="center">
+  <i>Build. Break. Learn. Secure.</i>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShlokAtal&label=Profile%20Views&color=4ADE80&style=flat" />
+</p>
