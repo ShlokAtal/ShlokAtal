@@ -74,26 +74,6 @@ Currently exploring how **Machine Learning can be applied to real cybersecurity 
 
 ---
 
-### 🧩 Currently Learning
-
-```text
-Machine Learning
-████████████████░░░░  80%
-
-Cybersecurity
-██████████████░░░░░░  70%
-
-Python
-████████████████░░░░  80%
-
-SQL & Databases
-████████████████░░░░  80%
-```
-
-> These percentages represent my current learning focus, not formal skill measurements.
-
----
-
 ### 📊 GitHub Stats
 
 <p align="center">
