@@ -22,6 +22,29 @@
 
 ---
 
+### 🚀 Featured Project
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/ShlokAtal/Phishing-URL-Detection">
+        <img src="https://github-stats-extended.vercel.app/api/pin/?username=ShlokAtal&repo=Phishing-URL-Detection&theme=radical&hide_border=true" alt="PhishGuard repo card" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+**🛡️ [PhishGuard — Phishing URL Detection Using Machine Learning](https://github.com/ShlokAtal/Phishing-URL-Detection)**
+
+A cybersecurity application that flags malicious URLs by pulling structural and character-level features out of a link, running them through a trained Random Forest classifier, and blending that with a rule-based risk analyzer. Users get a phishing/suspicious/legitimate verdict along with a risk score and the specific reasons behind it, all through a FastAPI backend with a simple web frontend.
+
+- **ML:** Random Forest classifier trained on the PhiUSIIL Phishing URL Dataset (235K+ instances)
+- **Feature engineering:** 18 URL-based features (domain structure, character ratios, HTTPS usage, obfuscation, etc.)
+- **Stack:** Python, Scikit-learn, FastAPI, HTML/CSS/JS, Pandas/NumPy
+- **Output:** phishing probability, risk score, risk level, and human-readable reasons for the verdict
+
+---
+
 ### 🛠️ Tech Stack
 
 **Languages**
