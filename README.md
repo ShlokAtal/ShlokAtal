@@ -132,7 +132,7 @@ Currently exploring how **Machine Learning can be applied to real cybersecurity 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShlokAtal&bg_color=0d1117&color=4ADE80&line=4ADE80&point=FFFFFF&area=true&area_color=4ADE80&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
+  <img alt="Contribution activity graph" src="https://raw.githubusercontent.com/ShlokAtal/ShlokAtal/output/activity/github-readme-activity-graph.svg" />
 </p>
 
 ---
