@@ -132,7 +132,7 @@ Currently exploring how **Machine Learning can be applied to real cybersecurity 
 ### 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShlokAtal&theme=react-dark&hide_border=true" />
+  <img alt="Contribution activity graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShlokAtal&bg_color=0d1117&color=4ADE80&line=4ADE80&point=FFFFFF&area=true&area_color=4ADE80&hide_border=true&radius=10&custom_title=Contribution%20Activity" />
 </p>
 
 ---
@@ -140,7 +140,7 @@ Currently exploring how **Machine Learning can be applied to real cybersecurity 
 ### 📫 Connect With Me
 
 <p align="center">
-  <a href="mailto:[shlokatal@gmail.com](mailto:shlokatal@gmail.com)">
+  <a href="mailto:shlokatal@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
