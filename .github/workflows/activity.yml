@@ -1,0 +1,30 @@
+name: Generate Activity Graph
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate activity graph
+        uses: Ashutosh00710/github-readme-activity-graph@v1.3.2
+        with:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          THEME: react-dark
+          HIDE_BORDER: true
+
+      - name: Commit graph
+        uses: JamesIves/github-pages-deploy-action@v4
+        with:
+          branch: output
+          folder: ./github-readme-activity-graph
+          target-folder: activity
+          clean: false
